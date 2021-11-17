@@ -1,9 +1,4 @@
 .myDiv {
   border: 5px outset skyblue;
   background-color: lightblue;
-  text-align: center;
-}
-
-.myDiv {
-  display: block;
 }
